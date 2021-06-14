@@ -5,7 +5,6 @@ img {
     outline-style: auto;
 }
 body {
-    background-color: red; 
     background-image: src(background.jpg) 
     background-repeat: no-repeat;
     background-size: cover;
