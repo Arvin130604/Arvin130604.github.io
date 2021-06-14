@@ -6,7 +6,7 @@ img {
 }
 body {
     background-color: blue;
-    background-image: src(background.jpg);
+    background-image: url(https://Arvin130604.github.io/Background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
