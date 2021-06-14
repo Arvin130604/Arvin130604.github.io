@@ -5,8 +5,8 @@ img {
     outline-style: auto;
 }
 body {
-    background-color: blue
-    background-image: src(background.jpg) 
+    background-color: blue;
+    background-image: src(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
